@@ -3,7 +3,7 @@
 Python data analysis project based on sales data from an international company operating through online and offline channels.
 
 ## Files
-- `global-sales-analysis.ipynb` — main project notebook
+- `global_sales_analysis.ipynb` — main project notebook
 
 ## Main focus
 - data cleaning and preparation
